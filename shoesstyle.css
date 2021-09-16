@@ -1,3 +1,7 @@
-.card > * {
-    flex-basis: 100%;
+.padtext {
+    margin-left: 5px;
+}
+
+.marginsizes {
+    margin: .5px .5px;
 }
