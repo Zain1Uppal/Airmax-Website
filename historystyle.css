@@ -11,10 +11,21 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+h3 {
+    font-size: 25px;
+    
+}
+
 p {
     text-align: justify;
     margin-left: 50px;
     margin-right: 50px;
+    padding-bottom: 20px;
     
    
 }
