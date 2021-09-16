@@ -3,5 +3,14 @@
 }
 
 .marginsizes {
-    margin: .5px .5px;
+    margin: 1rem;
+}
+
+.h6font {
+    text-align: center;
+}
+
+.grid-container {
+    justify-content: center;
+    display: grid;
 }
