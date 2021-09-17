@@ -1,0 +1,16 @@
+.padtext {
+    margin-left: 5px;
+}
+
+.marginsizes {
+    margin: 1rem;
+}
+
+.h6font {
+    text-align: center;
+}
+
+.grid-container {
+    justify-content: center;
+    display: grid;
+}
