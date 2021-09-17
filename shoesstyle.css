@@ -14,3 +14,9 @@
     justify-content: center;
     display: grid;
 }
+
+body {
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
